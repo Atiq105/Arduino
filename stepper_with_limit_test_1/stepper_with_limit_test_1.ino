@@ -8,6 +8,7 @@ void setup() {
 
   pinMode(limitPin,INPUT);
   // Sets the two pins as Outputs
+  // pinMode is a command
   pinMode(stepPin,OUTPUT); 
   pinMode(dirPin,OUTPUT);
 
