@@ -1,3 +1,4 @@
+// i have so many stories related to st notor
 // defines pins numbers
 const int stepPin = 5; 
 const int dirPin = 2; 
